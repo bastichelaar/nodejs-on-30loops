@@ -1,0 +1,17 @@
+{
+  "author": "Bas Tichelaar <bas@30loops.net>",
+  "name": "helloworld",
+  "description": "Hello World app",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bastichelaar/nodejs-on-30loops.git"
+  },
+  "main": "app",
+  "engines": {
+    "node": "~0.6.10"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
